@@ -1,0 +1,42 @@
+[
+    {
+        "MaSach" : "Book1",
+        "TenSach" : "Hạt giống tâm hồn",
+        "TacGia" : "Kaze",
+        "NgayXB" : "19/03/2000",
+        "SoLuong" : "10",
+        "Gia" : "10000"
+    },
+    {
+        "MaSach" : "Book2",
+        "TenSach" : "Hạt giống tâm hồn",
+        "TacGia" : "Kaze",
+        "NgayXB" : "19/03/2000",
+        "SoLuong" : "10",
+        "Gia" : "10000"
+    },
+    {
+        "MaSach" : "Book3",
+        "TenSach" : "Hạt giống tâm hồn",
+        "TacGia" : "Kaze",
+        "NgayXB" : "19/03/2000",
+        "SoLuong" : "10",
+        "Gia" : "10000"
+    },
+    {
+        "MaSach" : "Book4",
+        "TenSach" : "Hạt giống tâm hồn",
+        "TacGia" : "Kaze",
+        "NgayXB" : "19/03/2000",
+        "SoLuong" : "10",
+        "Gia" : "10000"
+    },
+    {
+        "MaSach" : "Book5",
+        "TenSach" : "Hạt giống tâm hồn",
+        "TacGia" : "Kaze",
+        "NgayXB" : "19/03/2000",
+        "SoLuong" : "10",
+        "Gia" : "10000"
+    }
+]
